@@ -1,0 +1,63 @@
+body{
+margin: 0;
+background-color: white;
+  }
+  
+  #logo {
+    padding: 50px;
+  }
+  
+  .search {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left:10px;
+    font-size: 30px;
+    }
+    
+    .option {
+    position: absolute;
+    margin-top: 120px;
+    margin-left:250px;
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+    }
+    
+    .Newest {
+      font-size: 30px;
+      margin-left: 20px;
+      }
+    
+    .New{
+      font-size: 50px;
+      margin-left: 20px;
+      
+    }
+    
+    img {
+      padding: 50px;
+    }
+    
+    .time {
+      position: absolute;
+      font-size: 50px;
+     margin-left: 50px;
+      margin-top: -115px;
+      background-color: dimgray;
+      color: white;
+  
+    }
+    
+   .description
+   {
+    position: absolute;
+     margin-left: 50px;
+     margin-top: -50px;
+     font-size: 25px;
+     
+     
+   }
